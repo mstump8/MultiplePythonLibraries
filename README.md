@@ -1,1 +1,2 @@
 # MultiplePythonLibraries
+The Beautiful Soup code analyzes the text of The Declaration of Independance. It finds the title, the first header, different elements, and even finds the top 10 used words. The Pendulum code compares different time zones around the world. It also gathers the time zone of the user and allows them the choice to compare different time zones they want to see. The Pillow code uploads two dependency image files. This code filters and enhances both photos in different ways including cropping, brightness, color, contrast, and sharpness.
